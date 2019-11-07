@@ -1,0 +1,39 @@
+
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-stretch: expanded;
+}
+
+.nav-item{
+    font-size: 30px;
+    font-stretch: expanded;
+}
+
+body {
+    background-image: url("Pictures/bg.jpg");
+    
+}
+
+div{
+    margin: auto;
+    width: 80%;
+}
+
+.Page_Center{
+    background-color: gray;
+    opacity: .85;
+}
+
+.FaceBook_Link{
+    height: 60px;
+    width: 150px;
+}
+
+p{
+    color: white;
+    opacity: 1.0;
+}
